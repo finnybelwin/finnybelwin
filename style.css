@@ -6,8 +6,8 @@
 }
 
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #353a68;
+    color: #AA8D6F;
     text-align: center;
     padding: 2rem 0;
     position: relative;
@@ -28,10 +28,10 @@ header {
 }
 
 nav {
-    background-color: #333;
-    color: #fff;
+    background-color: #353a68;
+    color: #AA8D6F;
     text-align: center;
-    border-top: 2px solid orange;
+    border-top: 2px solid rgba(206, 163, 83, 0.164);
 }
 
 nav ul {
@@ -48,7 +48,7 @@ nav ul li{
 
 nav ul li a {
     text-decoration: none;
-    color: #fff;
+    color: #AA8D6F;
 }
 
 ul li a{
@@ -88,8 +88,8 @@ body{
 footer {
     text-align: center;
     padding: 1rem 0;
-    background-color: #333;
-    color: #fff;
+    background-color: #353a68;
+    color: #AA8D6F;
 }
 
 .icon{
